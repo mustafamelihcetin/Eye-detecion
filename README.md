@@ -23,13 +23,6 @@ cd eye-detection-system
 markdown
 Copy code
 
-3. Install the required packages:
-
-pip install -r requirements.txt
-
-markdown
-Copy code
-
 ## Usage
 
 1. Run the `eye_detection.py` script:
@@ -42,7 +35,3 @@ Copy code
 This will start the eye detection system and open a window showing the video stream with green rectangles around detected eyes.
 
 2. Press the 'q' key to quit the program.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) 
