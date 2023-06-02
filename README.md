@@ -11,7 +11,7 @@ This is an eye detection system implemented using OpenCV and Haar cascades. The 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/eye-detection-system.git
+git clone https://github.com/mustafamelihcetin/Eye-detection.git
 
 csharp
 Copy code
