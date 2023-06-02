@@ -13,24 +13,15 @@ This is an eye detection system implemented using OpenCV and Haar cascades. The 
 
 git clone https://github.com/mustafamelihcetin/Eye-detection.git
 
-csharp
-Copy code
-
 2. Change into the project directory:
 
-cd eye-detection-system
-
-markdown
-Copy code
+cd Eye-detection
 
 ## Usage
 
-1. Run the `eye_detection.py` script:
+1. Run the `main.py` script:
 
-python eye_detection.py
-
-css
-Copy code
+python main.py
 
 This will start the eye detection system and open a window showing the video stream with green rectangles around detected eyes.
 
